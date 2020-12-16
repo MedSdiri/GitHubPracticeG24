@@ -81,7 +81,7 @@ public class ArraysUtility {
 
         return arr3;
     }
-    public static String[] combineTwoArrays(String[] arr1, String[] arr2) {
+    public static String[] combineTwoArrays(String [] arr1, String[] arr2) {
         String[] arr3 = new String[arr1.length + arr2.length];
         int i = 0;
 
@@ -154,6 +154,45 @@ public class ArraysUtility {
         str = str.replace("[", "{").replace("]", "}");
         return str;
     }
+
+    ///////////////////////////////////////////////////////
+
+
+    // Method that will add 1 element to an array
+    public static int [] addElement(int[] array, int element){
+        int [] result = new int [array.length+1];
+        for (int i =0;  i <= array.length-1; i++){
+            result[i] = array[i];
+        }
+        result[result.length-1]=element;
+        return result;
+    }
+    public static String [] addElement(String[] array, String element){
+        String [] result = new String [array.length+1];
+        for (int i =0 ; i <= array.length-1; i++){
+            result[i] = array[i];
+        }
+        result[result.length-1]=element;
+        return result;
+    }
+    public static double [] addElement(double[] array, double element){
+        double [] result = new double [array.length+1];
+        for (int i =0 ; i <= array.length-1; i++){
+            result[i] = array[i];
+        }
+        result[result.length-1]=element;
+        return result;
+    }
+    public static char [] addElement(char[] array, char element){
+        char [] result = new char [array.length+1];
+        for (int i =0 ; i <= array.length-1; i++){
+            result[i] = array[i];
+        }
+        result[result.length-1]=element;
+        return result;
+    }
+
+    ////////////////////////////////////////////////////////
 
 
 }
