@@ -8,8 +8,7 @@ public class AhmedClass {
         // comment 2
         // comment 3
         //Ercan's comment
-
-
+        System.out.println("hello");
 
     }
 }
