@@ -1,4 +1,4 @@
-package Ercan_The_King;
+package ercan;
 
 public class Ercan {
     public static void main(String[] args) {
