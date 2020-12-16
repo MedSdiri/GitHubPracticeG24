@@ -1,4 +1,4 @@
-package Ahmed;
+package ahmed;
 
 public class AhmedClass {
     public static void main(String[] args) {
