@@ -7,6 +7,7 @@ public class AhmedClass {
         //comment 1
         // comment 2
         // comment 3
+        //Ercan's comment
 
     }
 }
