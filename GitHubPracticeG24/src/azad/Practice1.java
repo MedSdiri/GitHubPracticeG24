@@ -3,7 +3,7 @@ package azad;
 public class Practice1 {
     public static void main(String[] args) {
 
-        System.out.println("We need more practice");
+        System.out.println("We need more practice. said Ercan");
 
     }
 }
