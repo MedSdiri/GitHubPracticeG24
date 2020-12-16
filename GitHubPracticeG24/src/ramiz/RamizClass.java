@@ -1,4 +1,4 @@
-package Ramiz;
+package ramiz;
 
 public class RamizClass {
 }
