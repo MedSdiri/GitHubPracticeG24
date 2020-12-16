@@ -5,6 +5,7 @@ public class AhmedClass {
         System.out.println("first push");
         //comment
         //comment 1
+        // comment 2
 
     }
 }
