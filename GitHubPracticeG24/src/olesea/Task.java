@@ -9,6 +9,9 @@ public class Task {
         for (int i = 0; i<=20; i++){
 
             System.out.println("Hello Olesea");
+            System.out.println("Hello,love how I'm guessing what is that, or there, how to make any changes" +
+                    "but I'm going with experience");
+            System.out.println("");
         }
     }
 }
