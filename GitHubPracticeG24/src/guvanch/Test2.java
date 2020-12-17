@@ -10,6 +10,8 @@ public class Test2 {
         }
     }
 
-
+public static void methodGuvanh(){
+    System.out.println("This is method Guvanch");
+}
 
 }
