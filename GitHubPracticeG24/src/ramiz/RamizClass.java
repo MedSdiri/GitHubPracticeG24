@@ -6,4 +6,9 @@ public class RamizClass {
             System.out.println("Ercan The king");
         }
     }
+
+    public static void methodRamiz(){
+        String name = "Ramiz";
+        System.out.println(name+"this is my feature");
+    }
 }

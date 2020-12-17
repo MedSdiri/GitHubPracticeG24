@@ -1,4 +1,4 @@
-package Guvanch;
+package guvanch;
 
 public class Test2 {
 
@@ -8,7 +8,10 @@ public class Test2 {
 
             System.out.println("Hello");
         }
-
-
     }
+
+public static void methodGuvanh(){
+    System.out.println("This is method Guvanch");
+}
+
 }

@@ -11,5 +11,7 @@ public class AhmedClass {
         System.out.println("hello");
         Test.method1();
 
+        }
+
     }
-}
+

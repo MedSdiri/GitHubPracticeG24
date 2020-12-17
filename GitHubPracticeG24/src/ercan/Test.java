@@ -14,4 +14,8 @@ public class Test {
         System.out.println("This is method1");
     }
 
+    public static void methodErcan() {
+        System.out.println("Ercan, this is my feature");
+    }
+
 }
