@@ -17,12 +17,27 @@ public class AhmedClass {
         // comment 2
         // comment 3
         //Ercan's comment
+        Test.methodErcan();
+        System.out.println("============");
+        irina.methodIrina();
+        System.out.println("============");
+        RamizClass.methodRamiz();
+        System.out.println("============");
+        Test2.methodGuvanh();
+        System.out.println("============");
+        Azad.methodAzad();
+        System.out.println("============");
+        Olesea.methodOlesea();
+        System.out.println("============");
+        Test.methodErcan();
+        methodAhmed();
 
 
         }
 
         public static void methodAhmed(){
             System.err.println("This is Ahmed Methods");
+
         }
 
 
