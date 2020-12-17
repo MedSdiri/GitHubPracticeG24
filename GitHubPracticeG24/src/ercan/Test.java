@@ -7,5 +7,10 @@ public class Test {
         System.out.println("How are you today?");
         int a = 0;
         System.out.println(a);
+
+    }
+
+    public void method1() {
+        System.out.println("This is method1");
     }
 }
