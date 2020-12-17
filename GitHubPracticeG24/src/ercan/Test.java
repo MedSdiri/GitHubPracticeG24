@@ -10,7 +10,7 @@ public class Test {
 
     }
 
-    public void method1() {
+    public static void method1() {
         System.out.println("This is method1");
     }
 }
