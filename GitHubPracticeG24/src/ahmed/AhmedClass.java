@@ -36,7 +36,7 @@ public class AhmedClass {
         }
 
         public static void methodAhmed(){
-            System.err.println("This is Ahmed Methods");
+            System.err.println("This is Ahmed's Methods");
 
         }
 
