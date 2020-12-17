@@ -8,6 +8,8 @@ public class Ercan {
             System.out.println("Ercan The king");
             System.out.println("Yes Sir. said Azad");
             System.out.println("Ladies and Gentlemen");
+            System.out.println("Thank you for your time and patience guys:)");
+            System.out.println("It was really nice to studying with you in this group:)");
 
             Scanner scan = new Scanner(System.in);
             System.out.println("Please input you sentence");
