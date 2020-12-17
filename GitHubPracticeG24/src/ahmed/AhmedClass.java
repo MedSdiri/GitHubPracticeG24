@@ -9,7 +9,7 @@ public class AhmedClass {
         // comment 3
         //Ercan's comment
         System.out.println("hello");
-        method1();
+        Test.method1();
 
     }
 }

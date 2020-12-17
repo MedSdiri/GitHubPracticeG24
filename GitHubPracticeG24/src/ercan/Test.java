@@ -13,4 +13,5 @@ public class Test {
     public static void method1() {
         System.out.println("This is method1");
     }
+
 }
