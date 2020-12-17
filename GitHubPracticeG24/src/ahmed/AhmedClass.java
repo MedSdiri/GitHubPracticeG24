@@ -1,5 +1,5 @@
 package ahmed;
-
+import ercan.Test;
 public class AhmedClass {
     public static void main(String[] args) {
         System.out.println("first push");
@@ -9,6 +9,7 @@ public class AhmedClass {
         // comment 3
         //Ercan's comment
         System.out.println("hello");
+        method1();
 
     }
 }
