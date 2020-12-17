@@ -7,6 +7,7 @@ public class Practice1 {
 
 
         System.out.println("Natarsyan?");
+        System.out.println("Iyi abi");
 
 
     }
