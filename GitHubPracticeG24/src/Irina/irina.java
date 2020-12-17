@@ -7,4 +7,8 @@ public class irina {
    }
 
 
+    public static void main(String[] args) {
+        System.out.println("i hope everything is fine!");
+    }
+
 }
